@@ -1,4 +1,4 @@
-# assessment.syncwealth
+# template drf and fbv
 
 
 
